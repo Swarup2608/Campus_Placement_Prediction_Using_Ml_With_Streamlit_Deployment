@@ -14,13 +14,13 @@ Else he would be getting a negative message along with few suggestion which can 
 ![main · Streamlit - Google Chrome 16-01-2023 16_41_02](https://user-images.githubusercontent.com/82018631/212665690-1a96c6f0-751c-4547-95aa-129082cd2b8c.png)
 
 
-The steps involved in the system is : 
--> Loading the data 
--> Performing the data preprocessing like Handling Missing Data, Finding Correlation, Feature Creation etc..
--> Perform Exploratory Data Analysis and the find the best features to run the model
--> Create the model and find the accuracy score and make it the test the test set
--> Pickle the model into .pkl file which is will be used to predict the data
--> Create the UI using streamlit and combine the pkl file into the UI
--> Run it using streamlit run main.py to get the outcome
+The steps involved in the system is : \n
+-> Loading the data \n
+-> Performing the data preprocessing like Handling Missing Data, Finding Correlation, Feature Creation etc..\n
+-> Perform Exploratory Data Analysis and the find the best features to run the model\n
+-> Create the model and find the accuracy score and make it the test the test set\n
+-> Pickle the model into .pkl file which is will be used to predict the data\n
+-> Create the UI using streamlit and combine the pkl file into the UI\n
+-> Run it using streamlit run main.py to get the outcome\n
 
 U can use the pkl file directly instead of creating the model
